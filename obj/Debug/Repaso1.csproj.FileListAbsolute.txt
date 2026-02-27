@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\Repaso1\bin\Debug\Repasoi1.exe.config
+C:\Users\Owner\Desktop\Repaso1\bin\Debug\Repasoi1.exe
+C:\Users\Owner\Desktop\Repaso1\bin\Debug\Repasoi1.pdb
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repaso1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repasoi1.Form1.resources
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repasoi1.Properties.Resources.resources
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repaso1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repaso1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repasoi1.exe
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repasoi1.pdb
+C:\Users\Owner\Desktop\Repaso1\obj\Debug\Repasoi1.exe.config
